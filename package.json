@@ -5,7 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "solve": "ts-node src/day3/index.ts"
+    "solve": "ts-node src/day4/index.ts"
   },
   "repository": {
     "type": "git",
